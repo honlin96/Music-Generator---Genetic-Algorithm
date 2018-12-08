@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 21 12:01:17 2018
 
-@author: honlin
+@author: honlin bengyee
 """
 import xlrd 
 import random
